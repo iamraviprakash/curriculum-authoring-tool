@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/curriculum-authoring-tool/static/css/main.991120f4.chunk.css",
+    "main.js": "/curriculum-authoring-tool/static/js/main.e8052867.chunk.js",
+    "main.js.map": "/curriculum-authoring-tool/static/js/main.e8052867.chunk.js.map",
+    "runtime-main.js": "/curriculum-authoring-tool/static/js/runtime-main.79e6b076.js",
+    "runtime-main.js.map": "/curriculum-authoring-tool/static/js/runtime-main.79e6b076.js.map",
+    "static/js/2.49f2408b.chunk.js": "/curriculum-authoring-tool/static/js/2.49f2408b.chunk.js",
+    "static/js/2.49f2408b.chunk.js.map": "/curriculum-authoring-tool/static/js/2.49f2408b.chunk.js.map",
+    "index.html": "/curriculum-authoring-tool/index.html",
+    "precache-manifest.8e98015f51ac27b46b88662c8eadf973.js": "/curriculum-authoring-tool/precache-manifest.8e98015f51ac27b46b88662c8eadf973.js",
+    "service-worker.js": "/curriculum-authoring-tool/service-worker.js",
+    "static/css/main.991120f4.chunk.css.map": "/curriculum-authoring-tool/static/css/main.991120f4.chunk.css.map",
+    "static/js/2.49f2408b.chunk.js.LICENSE": "/curriculum-authoring-tool/static/js/2.49f2408b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79e6b076.js",
+    "static/js/2.49f2408b.chunk.js",
+    "static/css/main.991120f4.chunk.css",
+    "static/js/main.e8052867.chunk.js"
+  ]
+}

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae82c43028e871c422db13bda23b41ee",
+    "revision": "02ae15a665e99faa57083e51e9ca3523",
     "url": "/curriculum-authoring-tool/index.html"
   },
   {
-    "revision": "76ce128f589f951e7c8c",
-    "url": "/curriculum-authoring-tool/static/css/main.991120f4.chunk.css"
+    "revision": "46fb202da61427df1419",
+    "url": "/curriculum-authoring-tool/static/css/main.d1184da2.chunk.css"
   },
   {
     "revision": "e6deed8abd559a503d26",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/curriculum-authoring-tool/static/js/2.49f2408b.chunk.js.LICENSE"
   },
   {
-    "revision": "76ce128f589f951e7c8c",
-    "url": "/curriculum-authoring-tool/static/js/main.e8052867.chunk.js"
+    "revision": "46fb202da61427df1419",
+    "url": "/curriculum-authoring-tool/static/js/main.c4609bd2.chunk.js"
   },
   {
     "revision": "74b29c8ec3ef89704285",

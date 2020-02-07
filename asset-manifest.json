@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/curriculum-authoring-tool/static/css/main.d1184da2.chunk.css",
-    "main.js": "/curriculum-authoring-tool/static/js/main.c4609bd2.chunk.js",
-    "main.js.map": "/curriculum-authoring-tool/static/js/main.c4609bd2.chunk.js.map",
+    "main.css": "/curriculum-authoring-tool/static/css/main.3e33c38b.chunk.css",
+    "main.js": "/curriculum-authoring-tool/static/js/main.c0bb66fb.chunk.js",
+    "main.js.map": "/curriculum-authoring-tool/static/js/main.c0bb66fb.chunk.js.map",
     "runtime-main.js": "/curriculum-authoring-tool/static/js/runtime-main.79e6b076.js",
     "runtime-main.js.map": "/curriculum-authoring-tool/static/js/runtime-main.79e6b076.js.map",
-    "static/js/2.49f2408b.chunk.js": "/curriculum-authoring-tool/static/js/2.49f2408b.chunk.js",
-    "static/js/2.49f2408b.chunk.js.map": "/curriculum-authoring-tool/static/js/2.49f2408b.chunk.js.map",
+    "static/js/2.54fd2c1d.chunk.js": "/curriculum-authoring-tool/static/js/2.54fd2c1d.chunk.js",
+    "static/js/2.54fd2c1d.chunk.js.map": "/curriculum-authoring-tool/static/js/2.54fd2c1d.chunk.js.map",
     "index.html": "/curriculum-authoring-tool/index.html",
-    "precache-manifest.cebb15a70af3a2ff69bd5412489d627e.js": "/curriculum-authoring-tool/precache-manifest.cebb15a70af3a2ff69bd5412489d627e.js",
+    "precache-manifest.782ef20d02f550fca036a4c7a44a9bee.js": "/curriculum-authoring-tool/precache-manifest.782ef20d02f550fca036a4c7a44a9bee.js",
     "service-worker.js": "/curriculum-authoring-tool/service-worker.js",
-    "static/css/main.d1184da2.chunk.css.map": "/curriculum-authoring-tool/static/css/main.d1184da2.chunk.css.map",
-    "static/js/2.49f2408b.chunk.js.LICENSE": "/curriculum-authoring-tool/static/js/2.49f2408b.chunk.js.LICENSE"
+    "static/css/main.3e33c38b.chunk.css.map": "/curriculum-authoring-tool/static/css/main.3e33c38b.chunk.css.map",
+    "static/js/2.54fd2c1d.chunk.js.LICENSE": "/curriculum-authoring-tool/static/js/2.54fd2c1d.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.79e6b076.js",
-    "static/js/2.49f2408b.chunk.js",
-    "static/css/main.d1184da2.chunk.css",
-    "static/js/main.c4609bd2.chunk.js"
+    "static/js/2.54fd2c1d.chunk.js",
+    "static/css/main.3e33c38b.chunk.css",
+    "static/js/main.c0bb66fb.chunk.js"
   ]
 }
